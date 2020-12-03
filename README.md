@@ -1,1 +1,3 @@
-# sn-js1
+# SN-JS1
+
+JavaScript Spielwiese.
